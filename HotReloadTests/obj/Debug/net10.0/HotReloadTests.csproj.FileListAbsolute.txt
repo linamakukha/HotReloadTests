@@ -1,0 +1,14 @@
+/Users/angelina/RiderProjects/Solution1/HotReloadTests/bin/Debug/net10.0/HotReloadTests
+/Users/angelina/RiderProjects/Solution1/HotReloadTests/bin/Debug/net10.0/HotReloadTests.deps.json
+/Users/angelina/RiderProjects/Solution1/HotReloadTests/bin/Debug/net10.0/HotReloadTests.runtimeconfig.json
+/Users/angelina/RiderProjects/Solution1/HotReloadTests/bin/Debug/net10.0/HotReloadTests.dll
+/Users/angelina/RiderProjects/Solution1/HotReloadTests/bin/Debug/net10.0/HotReloadTests.pdb
+/Users/angelina/RiderProjects/Solution1/HotReloadTests/obj/Debug/net10.0/HotReloadTests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angelina/RiderProjects/Solution1/HotReloadTests/obj/Debug/net10.0/HotReloadTests.AssemblyInfoInputs.cache
+/Users/angelina/RiderProjects/Solution1/HotReloadTests/obj/Debug/net10.0/HotReloadTests.AssemblyInfo.cs
+/Users/angelina/RiderProjects/Solution1/HotReloadTests/obj/Debug/net10.0/HotReloadTests.csproj.CoreCompileInputs.cache
+/Users/angelina/RiderProjects/Solution1/HotReloadTests/obj/Debug/net10.0/HotReloadTests.dll
+/Users/angelina/RiderProjects/Solution1/HotReloadTests/obj/Debug/net10.0/refint/HotReloadTests.dll
+/Users/angelina/RiderProjects/Solution1/HotReloadTests/obj/Debug/net10.0/HotReloadTests.pdb
+/Users/angelina/RiderProjects/Solution1/HotReloadTests/obj/Debug/net10.0/HotReloadTests.genruntimeconfig.cache
+/Users/angelina/RiderProjects/Solution1/HotReloadTests/obj/Debug/net10.0/ref/HotReloadTests.dll
